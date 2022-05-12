@@ -1,0 +1,3 @@
+[submodule "modules/nestjs-graphql-template"]
+	path = modules/nestjs-graphql-template
+	url = https://github.com/gabeshin/nestjs-graphql-template
